@@ -1,0 +1,3 @@
+﻿Peacock is a bird
+Elephant is an animal
+Shark is a fish
